@@ -43,7 +43,7 @@
 ### Chapter 6. ID Tracking
 - [6.1. RFID](https://github.com/hanback-lab/TiCLE-Sensor/blob/main/6.%20ID%20Tracking/6.1.%20RFID.md)
 
-- [6.2. Vision](https://github.com/hanback-lab/TiCLE-Sensor/blob/main/6.%20ID%20Tracking/6.1.%20RFID.md)
+- [6.2. Vision](https://github.com/hanback-lab/TiCLE-Sensor/blob/main/06.%20ID%20Tracking/6.2.%20Vision.md)
 
 ### Chapter 7.  Environmental sensing
 - [7.1. Enviroment Sensor](https://github.com/hanback-lab/TiCLE-Sensor/blob/main/07.%20Environmental%20sensing/7.1.%20Enviroment%20Sensor.md)
@@ -60,4 +60,3 @@
 ### Chapter 9. RT & NRT
 - [9.1. 동기와 비동기](https://github.com/hanback-lab/TiCLE-Sensor/blob/main/09.%20RT%26NRT/9.1.%20%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0.md)
 
-- [9.2. RT & NRT](https://github.com/hanback-lab/TiCLE-Sensor/blob/main/09.%20RT%26NRT/9.2.%20RT%20%26%20NRT.md)
