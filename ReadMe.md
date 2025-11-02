@@ -31,9 +31,9 @@
 - [3-5. Magnetic Rotary Encoder](https://github.com/hanback-lab/TiCLE-Sensor/blob/main/3.%20Motor%20Control/3.6.%20Magnetic%20Rotary%20Encoder.md)
 
 ### Chapter 4. Logistics identification 
-- [4-2. OpenCV](https://github.com/hanback-lab/TiCLE-Sensor/blob/main/4.Logistics%20identification/4.2.%20Color.md)
+- [4-1. Color](https://github.com/hanback-lab/TiCLE-Sensor/blob/main/4.Logistics%20identification/4.2.%20Color.md)
 
-- [4-3. Motion Sensor](https://github.com/hanback-lab/TiCLE-Sensor/blob/main/4.Logistics%20identification/4.3.%20Motion%20Sensor.md)
+- [4-2. Motion Sensor](https://github.com/hanback-lab/TiCLE-Sensor/blob/main/4.Logistics%20identification/4.3.%20Motion%20Sensor.md)
 
 ### Chapter 5. Distance detection
 - [5-1. Ultrasonic Sensor](https://github.com/hanback-lab/TiCLE-Sensor/blob/main/5.%20Distance%20detection/5.1.%20Ultrasonic.md)
@@ -42,6 +42,8 @@
 
 ### Chapter 6. ID Tracking
 - [6.1. RFID](https://github.com/hanback-lab/TiCLE-Sensor/blob/main/6.%20ID%20Tracking/6.1.%20RFID.md)
+
+- [6.2. Vision](https://github.com/hanback-lab/TiCLE-Sensor/blob/main/6.%20ID%20Tracking/6.1.%20RFID.md)
 
 ### Chapter 7.  Environmental sensing
 - [7.1. Enviroment Sensor](https://github.com/hanback-lab/TiCLE-Sensor/blob/main/07.%20Environmental%20sensing/7.1.%20Enviroment%20Sensor.md)
