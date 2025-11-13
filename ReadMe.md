@@ -46,7 +46,7 @@
 - [6.2. Vision](https://github.com/hanback-lab/TiCLE-Sensor/blob/main/06.%20ID%20Tracking/6.2.%20Vision.md)
 
 ### Chapter 7.  Environmental sensing
-- [7.1. Enviroment Sensor](https://github.com/hanback-lab/TiCLE-Sensor/blob/main/07.%20Environmental%20sensing/7.1.%20Enviroment%20Sensor.md)
+- [7.1. Environment Sensor](https://github.com/hanback-lab/TiCLE-Sensor/blob/main/07.%20Environmental%20sensing/7.1.%20Environment%20Sensor.md)
 
 - [7.2. Light Sensor](https://github.com/hanback-lab/TiCLE-Sensor/blob/main/07.%20Environmental%20sensing/7.2.%20Light%20Sensor.md)
 
